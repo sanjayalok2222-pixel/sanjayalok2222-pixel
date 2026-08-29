@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00f2fe,50,4facfe,100,7f00ff&height=220&section=header&text=Sanjay%20Alok&fontSize=50&fontColor=ffffff&fontAlignY=35" alt="Sanjay Alok Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00f2fe,50,4facfe,100,7f00ff&height=220&section=header&text=Sanjay%20&fontSize=50&fontColor=ffffff&fontAlignY=35" alt="Sanjay  Header" />
 </p>
 
 <p align="center">
@@ -41,10 +41,10 @@ I enjoy building real-world systems where electronics, embedded control, and sof
 ```text
 sanjay@robotics ~ $ neofetch
 
-  ███████╗ █████╗ ███╗   ██╗██████╗  █████╗ ██╗   ██╗
-  ██╔════╝██╔══██╗████╗  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝
-  ███████╗███████║██╔██╗ ██║██║  ██║███████║ ╚████╔╝ 
-  ╚════██║██╔══██║██║╚██╗██║██║  ██║██╔══██║  ╚██╔╝  
+  ███████╗ █████╗ ███╗   ██╗  ██ ██╗  █████╗ ██╗   ██╗
+  ██╔════╝██╔══██╗████╗  ██║     ██╗██╔══██╗╚██╗ ██╔╝
+  ███████╗███████║██╔██╗ ██║     ██║███████║ ╚████╔╝ 
+  ╚════██║██╔══██║██║╚██╗██║     ██║██╔══██║  ╚██╔╝  
   ███████║██║  ██║██║ ╚████║██████╔╝██║  ██║   ██║   
   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   
 
