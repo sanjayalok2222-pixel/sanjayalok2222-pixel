@@ -48,7 +48,7 @@ sanjay@robotics ~ $ neofetch
   ███████║██║  ██║██║ ╚████║██████╔╝██║  ██║   ██║   
   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   
 
-  NAME ............... Sanjay Alok
+  NAME ............... Sanjay 
   ROLE ............... Robotics & Technology Builder
   FOCUS .............. Robotics / Embedded / Web
   BUILDING ........... Hardware + Software
