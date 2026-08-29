@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00f2fe,50,4facfe,100,7f00ff&height=220&section=header&text=SANJAY B%40&fontSize=50&fontColor=ffffff&fontAlignY=35" alt="SANJAY B  Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00f2fe,50,4facfe,100,7f00ff&height=220&section=header&text=SANJAY%20&fontSize=50&fontColor=ffffff&fontAlignY=35" alt="SANJAY Header" />
 </p>
 
 <p align="center">
@@ -62,7 +62,6 @@ sanjay@robotics ~ $ neofetch
   STATUS ............. Always Building 🚀
 ```
 
----
 
 ## 🏆 Achievements & Recognition
 
